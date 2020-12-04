@@ -1,0 +1,18 @@
+/* body > *{ */
+/* 	all: unset; */
+/* } */
+body{
+	background-color: peru;
+	color: white;
+	text-align: center;
+}
+.clock{	
+}
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+
+
